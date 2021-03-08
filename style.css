@@ -1,0 +1,51 @@
+*{
+    color: red;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: goldenrod;
+}
+#text-container{
+    margin-top: 10%;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+}
+#label{
+    font-size: 70px;
+    font-family: Akaya ,Telivigala;
+    color: white;
+    margin-bottom: 30px;
+}
+#textarea{
+    font-family: Lobster,display;
+    font-size: larger;
+    text-align: center;
+}
+#notes-section{
+    margin: 10px 0 10px 0;
+    font-family: Akaya ,Telivigala;
+    color: white;
+    font-size: 70px;
+}
+#window{
+    text-align: center;
+}
+.card{
+    border: 2px solid black;
+    text-align: center;
+}
+#row{
+    font-family: Lobster,display;
+
+    border-top: 1px solid black;
+    padding-top: 17px;
+    height: 200px;
+    justify-content: center;
+}
+.footer{
+    overflow-wrap: break-word;
+    height: 150px;
+}
