@@ -39,13 +39,12 @@ body{
 }
 #row{
     font-family: Lobster,display;
-
-    border-top: 1px solid black;
+    overflow-y: auto;
+    border: 1px solid black;
     padding-top: 17px;
-    height: 200px;
+    height: 350px;
     justify-content: center;
 }
 .footer{
-    overflow-wrap: break-word;
-    height: 150px;
+    margin-top:150px ;
 }
